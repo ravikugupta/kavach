@@ -186,3 +186,4 @@ MIT — see [LICENSE](LICENSE).
 ## 🙏 Acknowledgements
 
 Built for **KSP Datathon 2026** (Karnataka State Police, powered by H2S, technology partner Zoho Catalyst).
+# kavach
