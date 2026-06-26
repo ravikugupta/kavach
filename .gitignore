@@ -5,10 +5,11 @@ venv/
 .venv/
 *.egg-info/
 
-# Database
+# Database (exclude from top-level, but include the one bundled with the function)
 *.db
 *.sqlite
 *.sqlite3
+!functions/kavach-api/app/data/kavach.db
 
 # Environment
 .env
@@ -20,5 +21,6 @@ venv/
 .vscode/
 .idea/
 
-# Logs
+# Logs (exclude from top-level, but include audit log in function package)
 *.log
+!functions/kavach-api/app/data/audit.log

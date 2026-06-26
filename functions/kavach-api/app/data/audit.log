@@ -1,0 +1,13 @@
+{"timestamp": "2026-06-14T02:57:03.259590+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/health", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:57:34.980314+00:00", "user_id": "anonymous", "role": "none", "method": "POST", "path": "/api/chat", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:57:44.931694+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/analytics/hotspots", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:57:44.934481+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/analytics/repeat-offenders", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:57:44.937335+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/analytics/trends", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:57:44.937739+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/analytics/sociological", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:58:00.282436+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/analytics/organized-groups", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:58:00.284338+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/analytics/accused/1/network", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:58:07.853863+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/analytics/organized-groups", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:58:07.855638+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/analytics/accused/1/network", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:58:09.443258+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/analytics/early-warning", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-14T02:58:19.743870+00:00", "user_id": "anonymous", "role": "none", "method": "POST", "path": "/api/chat", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
+{"timestamp": "2026-06-18T02:09:26.963687+00:00", "user_id": "anonymous", "role": "none", "method": "GET", "path": "/api/health", "query_text": "", "ip": "127.0.0.1", "status_code": 200}
